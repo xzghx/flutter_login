@@ -4,7 +4,7 @@ import 'package:equatable/equatable.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:formz/formz.dart';
 import 'package:login_bloc_project/login/models/models.dart';
-import 'package:login_bloc_project/respositories/user_repository.dart';
+import 'package:login_bloc_project/repositories/user_repository.dart';
 
 import '../../models/user.dart';
 

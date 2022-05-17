@@ -1,4 +1,3 @@
-import 'package:flutter/cupertino.dart';
 import 'package:login_bloc_project/models/user.dart';
 
 class UserRepository {

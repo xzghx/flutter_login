@@ -3,7 +3,7 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:formz/formz.dart';
 import 'package:login_bloc_project/login/bloc/login_bloc.dart';
 
-import '../../pages/home_page.dart';
+import '../../home/home_page.dart';
 
 class LoginForm extends StatelessWidget {
   const LoginForm({Key? key}) : super(key: key);

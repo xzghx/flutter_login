@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:login_bloc_project/authentication/bloc/authentication_bloc.dart';
-import 'package:login_bloc_project/pages/home_page.dart';
-import 'package:login_bloc_project/respositories/user_repository.dart';
 
+import '../authentication/bloc/authentication_bloc.dart';
+import '../home/home_page.dart';
+import '../repositories/user_repository.dart';
 import 'login/view/view.dart';
 import 'pages/splash_screen.dart';
 
