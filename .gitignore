@@ -9,6 +9,9 @@
 .history
 .svn/
 
+#MY folders
+windows/
+
 # IntelliJ related
 *.iml
 *.ipr

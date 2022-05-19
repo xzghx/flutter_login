@@ -73,7 +73,7 @@ class _AppViewState extends State<AppView> {
   }
 
   Route<dynamic>? _onGenerateRoute(RouteSettings settings) {
-    Object? args = settings.arguments;
+    // Object? args = settings.arguments;
     switch (settings.name) {
       case HomePage.route:
         return MaterialPageRoute(builder: (context) => const HomePage());
